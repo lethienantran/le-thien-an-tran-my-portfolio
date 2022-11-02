@@ -6,7 +6,8 @@ import Projects from "./components/Projects";
 import Contact from "./components/Contact";
 import { Helmet } from "react-helmet";
 
-import bgVid from "../src/assets/Picture/BackgroundVid.webm";
+import bgVid from ".///BackgroundVid.webm";
+
 function App() {
   return (
     <div className="App">
@@ -14,6 +15,16 @@ function App() {
         <title>Le Thien An Tran</title>
       </Helmet>
       <NavBar />
+      <div
+        style={{
+          position: "fixed",
+          zIndex: -2,
+          width: "100%",
+          height: "100%",
+          objectFit: "cover",
+          backgroundColor: "#000000",
+        }}
+      ></div>
       <video
         src={bgVid}
         autoPlay

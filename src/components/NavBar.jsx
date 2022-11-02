@@ -1,11 +1,11 @@
 import React, { useState } from "react";
-import { FaBars, FaTimes } from "react-icons/fa";
+// import { FaBars, FaTimes } from "react-icons/fa";
 import { Link } from "react-scroll";
 const NavBar = () => {
-  const [nav, setNav] = useState(false);
-  const handleClick = () => setNav(!nav);
+  // const [nav, setNav] = useState(false);
+  // const handleClick = () => setNav(!nav);
   return (
-    <div className="fixed w-full h-50px sm:h-[70px] flex justify-between items-center px-4 bg-[#fff0db] text-[#6F4E37] z-1 ">
+    <div className="fixed w-full  h-[50px] md:h-[70px] md:flex justify-between items-center px-4 bg-[#fff0db] text-[#6F4E37] z-1 hidden">
       <ul className="hidden md:flex mx-auto">
         <li className="  hover:text-red-400 duration-300">
           {" "}
@@ -36,9 +36,7 @@ const NavBar = () => {
       </ul>
 
       {/* for mobile */}
-      <div onClick={handleClick} className="md:hidden z-10">
-        {!nav ? <FaBars /> : <FaTimes className="text-white" />}
-      </div>
+      {/* 
       <ul
         className={
           !nav
@@ -76,9 +74,12 @@ const NavBar = () => {
             Contact
           </Link>
         </li>
-      </ul>
+      </ul> */}
 
       {/* //Social Icons */}
+      {/* <div onClick={handleClick} className="flex md:hidden z-10">
+        {!nav ? <FaBars /> : <FaTimes className="text-white" />}
+      </div> */}
     </div>
   );
 };
