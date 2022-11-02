@@ -1,0 +1,29 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+@layer base {
+  body {
+    @apply font-[Roboto-Medium];
+  }
+  li {
+    @apply font-[Roboto-Light];
+    @apply text-2xl;
+    @apply px-4;
+    @apply cursor-pointer;
+  }
+}
+@font-face {
+  font-family: "Roboto-Medium";
+  src: url("../src/assets/Font/Roboto-Medium.ttf");
+}
+
+.content-div {
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-position: center;
+  height: 250px;
+}
+.content-div:hover {
+  background-image: linear-gradient(to right, black, black) !important;
+}
