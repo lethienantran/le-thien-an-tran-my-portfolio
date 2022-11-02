@@ -1,6 +1,6 @@
 import React from "react";
 import { FaLinkedin, FaTwitter, FaGithub, FaInstagram } from "react-icons/fa";
-import Resume from "../assets/Picture/Le-Thien-An-Tran-Resume-General.pdf";
+import Resume from "../Le-Thien-An-Tran-Resume-General.pdf";
 const Home = () => {
   return (
     <div name="home" className="w-full md:h-screen h-full">
