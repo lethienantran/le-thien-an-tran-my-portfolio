@@ -4,11 +4,15 @@ import About from "./components/About";
 import Skills from "./components/Skills";
 import Projects from "./components/Projects";
 import Contact from "./components/Contact";
+import { Helmet } from "react-helmet";
 
 import bgVid from "../src/assets/Picture/BackgroundVid.webm";
 function App() {
   return (
     <div className="App">
+      <Helmet>
+        <title>Le Thien An Tran</title>
+      </Helmet>
       <NavBar />
       <video
         src={bgVid}
