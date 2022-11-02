@@ -5,7 +5,7 @@ const NavBar = () => {
   const [nav, setNav] = useState(false);
   const handleClick = () => setNav(!nav);
   return (
-    <div className="fixed w-full h-[70px] flex justify-between items-center px-4 bg-[#fff0db] text-[#6F4E37] z-1 ">
+    <div className="fixed w-full h-50px sm:h-[70px] flex justify-between items-center px-4 bg-[#fff0db] text-[#6F4E37] z-1 ">
       <ul className="hidden md:flex mx-auto">
         <li className="  hover:text-red-400 duration-300">
           {" "}

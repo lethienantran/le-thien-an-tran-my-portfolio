@@ -3,7 +3,7 @@ import { FaLinkedin, FaTwitter, FaGithub, FaInstagram } from "react-icons/fa";
 import Resume from "../assets/Picture/Le-Thien-An-Tran-Resume-General.pdf";
 const Home = () => {
   return (
-    <div name="home" className="w-full h-screen ">
+    <div name="home" className="w-full md:h-screen ">
       <div className="max-w-[1000px] my-auto px-20 flex flex-col justify-center h-full mx-auto z-0 ">
         <p className="text-red-500 text-2xl py-4">Hello there, my name is </p>
 

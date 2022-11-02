@@ -2,7 +2,7 @@ import React from "react";
 import myProfile from "../assets/Picture/myProfile.jpg";
 const About = () => {
   return (
-    <div name="about" className="w-full h-screen  text-gray-300">
+    <div name="about" className="w-full md:h-screen  text-gray-300">
       <div className="flex flex-col justify-center items-center w-full h-full">
         <div className="max-w-[1000px] w-full">
           <div className="text-center pb-8 pl-4">
