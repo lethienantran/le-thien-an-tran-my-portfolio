@@ -4,7 +4,7 @@ import Resume from "../assets/Picture/Le-Thien-An-Tran-Resume-General.pdf";
 const Home = () => {
   return (
     <div name="home" className="w-full md:h-screen h-full">
-      <div className="max-w-[1000px] my-auto pl-10 pr-10 text-center md:px-20 sm:text-left flex flex-col justify-center z-0">
+      <div className="max-w-[1000px] my-auto pl-10 pr-10 h-full text-center md:px-20 sm:text-left flex flex-col justify-center z-0">
         <p className="text-red-500 sm:text-xl md:text-2xl py-4 ">
           Hello there, my name is{" "}
         </p>
