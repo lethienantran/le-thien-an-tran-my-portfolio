@@ -5,10 +5,10 @@ const Contact = () => {
   return (
     <div name="contact" className="w-full md:h-screen text-gray-300">
       <div className="max-w-[1000px] my-auto px-20 flex flex-col justify-center h-full mx-auto">
-        <h1 className="text-red-500 text-4xl md:text-7xl font-bold py-4 text-center">
+        <h1 className="text-red-500 text-4xl sm:text-5xl md:text-7xl font-bold py-4 text-center">
           Contact Me
         </h1>
-        <h3 className="mx-auto pb-4 text-3xl md:text-4xl">
+        <h3 className="mx-auto pb-4 text-xl sm:text-3xl md:text-4xl">
           lethienantran@gmail.com
         </h3>
         <ul className="mx-auto flex py-4">
