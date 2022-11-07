@@ -1,21 +1,21 @@
 {
   "files": {
     "main.css": "/le-thien-an-tran-my-portfolio/static/css/main.cfac8de7.css",
-    "main.js": "/le-thien-an-tran-my-portfolio/static/js/main.1bd83407.js",
+    "main.js": "/le-thien-an-tran-my-portfolio/static/js/main.b477cce0.js",
     "static/media/BackgroundVid.webm": "/le-thien-an-tran-my-portfolio/static/media/BackgroundVid.e697611519dce5526b86.webm",
-    "static/media/DownTheCastle.png": "/le-thien-an-tran-my-portfolio/static/media/DownTheCastle.49e0787c6b47e5f1cd78.png",
+    "static/media/DownTheCastle.png": "/le-thien-an-tran-my-portfolio/static/media/DownTheCastle.db634a150a8d25cd6b2a.png",
     "static/media/Roboto-Medium.ttf": "/le-thien-an-tran-my-portfolio/static/media/Roboto-Medium.7c8d04cd831df3033c8a.ttf",
     "static/media/Le-Thien-An-Tran-Resume-General.pdf": "/le-thien-an-tran-my-portfolio/static/media/Le-Thien-An-Tran-Resume-General.045deca9b93a42add9b9.pdf",
     "static/media/myProfile.jpg": "/le-thien-an-tran-my-portfolio/static/media/myProfile.44a7da8746391befe038.jpg",
+    "static/media/AlgorithmPracticeSystem.png": "/le-thien-an-tran-my-portfolio/static/media/AlgorithmPracticeSystem.d4c9268dc36ffa4960bf.png",
     "static/media/MenuManagementServiceSystem.png": "/le-thien-an-tran-my-portfolio/static/media/MenuManagementServiceSystem.60ba2d06e415f3d4c5bb.png",
     "static/media/TicTacToeOOP.png": "/le-thien-an-tran-my-portfolio/static/media/TicTacToeOOP.8e74d6c3d5175facf70a.png",
-    "static/media/AlgorithmPracticeSystem.png": "/le-thien-an-tran-my-portfolio/static/media/AlgorithmPracticeSystem.b4aee34f0d550d54cecc.png",
     "index.html": "/le-thien-an-tran-my-portfolio/index.html",
     "main.cfac8de7.css.map": "/le-thien-an-tran-my-portfolio/static/css/main.cfac8de7.css.map",
-    "main.1bd83407.js.map": "/le-thien-an-tran-my-portfolio/static/js/main.1bd83407.js.map"
+    "main.b477cce0.js.map": "/le-thien-an-tran-my-portfolio/static/js/main.b477cce0.js.map"
   },
   "entrypoints": [
     "static/css/main.cfac8de7.css",
-    "static/js/main.1bd83407.js"
+    "static/js/main.b477cce0.js"
   ]
 }
