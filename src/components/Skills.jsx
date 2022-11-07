@@ -9,6 +9,9 @@ import {
   SiGithub,
   SiPython,
   SiEclipseide,
+  SiReact,
+  SiTailwindcss,
+  SiGit,
 } from "react-icons/si";
 const Skills = () => {
   return (
@@ -55,16 +58,20 @@ const Skills = () => {
             <p className="my-4 text-white">Visual Studio</p>
           </div>
           <div className=" shadow-md shadow-gray-600 hover:scale-110 duration-500 bg-gray-900">
-            <SiEclipseide className="text-7xl text-white pt-5 mx-auto border-gray-600" />
-            <p className="my-4 text-white">Eclipse</p>
+            <SiReact className="text-7xl text-white pt-5 mx-auto border-gray-600" />
+            <p className="my-4 text-white">React</p>
           </div>
           <div className=" shadow-md shadow-gray-600 hover:scale-110 duration-500 bg-gray-900">
-            <SiGithub className="text-7xl text-white pt-5 mx-auto border-gray-600" />
-            <p className="my-4 text-white">GitHub</p>
+            <SiTailwindcss className="text-7xl text-white pt-5 mx-auto border-gray-600" />
+            <p className="my-4 text-white">Tailwind CSS</p>
           </div>
           <div className=" shadow-md shadow-gray-600 hover:scale-110 duration-500 bg-gray-900">
             <SiMicrosoftsqlserver className="text-7xl text-white pt-5 mx-auto border-gray-600" />
             <p className="my-4 text-white">SQL Server</p>
+          </div>
+          <div className=" shadow-md shadow-gray-600 hover:scale-110 duration-500 bg-gray-900">
+            <SiGithub className="text-7xl text-white pt-5 mx-auto border-gray-600" />
+            <p className="my-4 text-white">GitHub</p>
           </div>
         </div>
       </div>

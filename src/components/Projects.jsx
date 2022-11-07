@@ -42,7 +42,7 @@ const Projects = () => {
                     rel="noreferrer"
                   >
                     <button className="text-center rounded-lg px-4 py-3 m-2 bg-white text-gray-700 font-bold text-lg font-mono hover:bg-red-700 hover:text-white">
-                      About It <FaGithub className="inline" />
+                      GitHub Available <FaGithub className="inline" />
                     </button>
                   </a>
                 </div>
@@ -69,12 +69,21 @@ const Projects = () => {
                 </span>
                 <div className="pt-8 text-center">
                   <a
+                    href="https://devpost.com/software/online-menu"
+                    target="_blank"
+                    rel="noreferrer"
+                  >
+                    <button className="text-center rounded-lg px-4 py-3 m-2 bg-white text-gray-700 font-bold text-lg font-mono hover:bg-red-700 hover:text-white">
+                      DubHacks'22 Presentation
+                    </button>
+                  </a>
+                  <a
                     href="https://github.com/lethienantran/MenuManagementService"
                     target="_blank"
                     rel="noreferrer"
                   >
                     <button className="text-center rounded-lg px-4 py-3 m-2 bg-white text-gray-700 font-bold text-lg font-mono hover:bg-red-700 hover:text-white">
-                      About It <FaGithub className="inline" />
+                      GitHub Available <FaGithub className="inline" />
                     </button>
                   </a>
                 </div>
@@ -107,7 +116,7 @@ const Projects = () => {
                     rel="noreferrer"
                   >
                     <button className="text-center rounded-lg px-4 py-3 m-2 bg-white text-gray-700 font-bold text-lg font-mono hover:bg-red-700 hover:text-white">
-                      About It <FaGithub className="inline" />
+                      GitHub Available <FaGithub className="inline" />
                     </button>
                   </a>
                 </div>
@@ -127,16 +136,25 @@ const Projects = () => {
             >
               <div className="opacity-0 group-hover:opacity-100 text-center">
                 <span className="text-2xl font-medium text-white tracking-wider text-center">
-                  Sorting Algorithm, Algorithm Practice
+                  Daily Checklist
                 </span>
                 <div className="pt-8 text-center">
                   <a
-                    href="https://github.com/lethienantran/Sorting-BinarySearch-PalindromeCheck"
+                    href="https://app.netlify.com/sites/funny-fudge-2b2a86/overview"
                     target="_blank"
                     rel="noreferrer"
                   >
                     <button className="text-center rounded-lg px-4 py-3 m-2 bg-white text-gray-700 font-bold text-lg font-mono hover:bg-red-700 hover:text-white">
-                      About It <FaGithub className="inline" />
+                      Run the app!
+                    </button>
+                  </a>
+                  <a
+                    href="https://app.netlify.com/sites/funny-fudge-2b2a86/overview"
+                    target="_blank"
+                    rel="noreferrer"
+                  >
+                    <button className="text-center rounded-lg px-4 py-3 m-2 bg-white text-gray-700 font-bold text-lg font-mono hover:bg-red-700 hover:text-white">
+                      GitHub Available <FaGithub className="inline" />
                     </button>
                   </a>
                 </div>
@@ -144,7 +162,7 @@ const Projects = () => {
             </div>
             <p className="text-center text-white pt-4 font-sans">
               {" "}
-              Sorting Algorithm, Algorithm Practice (C#)
+              Daily Checklist (React.js)
             </p>
           </div>
         </div>
