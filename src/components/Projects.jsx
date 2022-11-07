@@ -140,7 +140,7 @@ const Projects = () => {
                 </span>
                 <div className="pt-8 text-center">
                   <a
-                    href="https://app.netlify.com/sites/funny-fudge-2b2a86/overview"
+                    href="https://dailychecklist-lethienantran.netlify.app/"
                     target="_blank"
                     rel="noreferrer"
                   >
@@ -149,7 +149,7 @@ const Projects = () => {
                     </button>
                   </a>
                   <a
-                    href="https://app.netlify.com/sites/funny-fudge-2b2a86/overview"
+                    href="https://github.com/lethienantran/daily-checklist"
                     target="_blank"
                     rel="noreferrer"
                   >
