@@ -6,7 +6,7 @@ import Projects from "./components/Projects";
 import Contact from "./components/Contact";
 import { Helmet } from "react-helmet";
 
-import bgVid from ".///BackgroundVid.webm";
+// import bgVid from ".///BackgroundVid.webm";
 
 function App() {
   return (
@@ -25,7 +25,7 @@ function App() {
           backgroundColor: "#000000",
         }}
       ></div>
-      <video
+      {/* <video
         src={bgVid}
         autoPlay
         loop
@@ -37,7 +37,7 @@ function App() {
           height: "100%",
           objectFit: "cover",
         }}
-      />
+      /> */}
       <Home />
       <About />
       <Skills />
