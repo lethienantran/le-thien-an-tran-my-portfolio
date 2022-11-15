@@ -1,8 +1,7 @@
 {
   "files": {
     "main.css": "/le-thien-an-tran-my-portfolio/static/css/main.cfac8de7.css",
-    "main.js": "/le-thien-an-tran-my-portfolio/static/js/main.b477cce0.js",
-    "static/media/BackgroundVid.webm": "/le-thien-an-tran-my-portfolio/static/media/BackgroundVid.e697611519dce5526b86.webm",
+    "main.js": "/le-thien-an-tran-my-portfolio/static/js/main.34a9ea6e.js",
     "static/media/DownTheCastle.png": "/le-thien-an-tran-my-portfolio/static/media/DownTheCastle.db634a150a8d25cd6b2a.png",
     "static/media/Roboto-Medium.ttf": "/le-thien-an-tran-my-portfolio/static/media/Roboto-Medium.7c8d04cd831df3033c8a.ttf",
     "static/media/Le-Thien-An-Tran-Resume-General.pdf": "/le-thien-an-tran-my-portfolio/static/media/Le-Thien-An-Tran-Resume-General.045deca9b93a42add9b9.pdf",
@@ -12,10 +11,10 @@
     "static/media/TicTacToeOOP.png": "/le-thien-an-tran-my-portfolio/static/media/TicTacToeOOP.8e74d6c3d5175facf70a.png",
     "index.html": "/le-thien-an-tran-my-portfolio/index.html",
     "main.cfac8de7.css.map": "/le-thien-an-tran-my-portfolio/static/css/main.cfac8de7.css.map",
-    "main.b477cce0.js.map": "/le-thien-an-tran-my-portfolio/static/js/main.b477cce0.js.map"
+    "main.34a9ea6e.js.map": "/le-thien-an-tran-my-portfolio/static/js/main.34a9ea6e.js.map"
   },
   "entrypoints": [
     "static/css/main.cfac8de7.css",
-    "static/js/main.b477cce0.js"
+    "static/js/main.34a9ea6e.js"
   ]
 }
