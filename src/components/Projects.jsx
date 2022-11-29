@@ -3,6 +3,7 @@ import MenuManagementServiceSystem from "../assets/Picture/Projects/MenuManageme
 import TicTacToe from "../assets/Picture/Projects/TicTacToeOOP.png";
 import DownTheCastle from "../assets/Picture/Projects/DownTheCastle.png";
 import AlgorithmPracticeSystem from "../assets/Picture/Projects/AlgorithmPracticeSystem.png";
+import NightTimeVillage from "../assets/Picture/Projects/NightTimeVillage.png";
 import { FaGithub } from "react-icons/fa";
 const Projects = () => {
   return (
@@ -101,7 +102,7 @@ const Projects = () => {
           <div>
             <div
               style={{
-                backgroundImage: `url(${TicTacToe})`,
+                backgroundImage: `url(${NightTimeVillage})`,
               }}
               className="shadow-lg shadow-gray-600 group container rounded-md flex justify-center items-center mx-auto content-div"
             >
@@ -111,7 +112,7 @@ const Projects = () => {
                 </span>
                 <div className="pt-8 text-center">
                   <a
-                    href="https://github.com/lethienantran/OOP-TicTacToe"
+                    href="https://github.com/lethienantran/NightTimeVillage"
                     target="_blank"
                     rel="noreferrer"
                   >
@@ -124,7 +125,7 @@ const Projects = () => {
             </div>
             <p className="text-center text-white pt-4 font-sans">
               {" "}
-              Tic Tac Toe (C#)
+              Night Time Village - 2D Online Multiplayer Game
             </p>
           </div>
           <div>
