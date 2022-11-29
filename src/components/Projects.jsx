@@ -124,8 +124,10 @@ const Projects = () => {
               </div>
             </div>
             <p className="text-center text-white pt-4 font-sans">
-              {" "}
-              Night Time Village - 2D Online Multiplayer Game
+              <strong className="text-red-400 text-center">
+                Collaborate Junior Year Project{" "}
+              </strong>
+              <br></br> Night Time Village - 2D Online Multiplayer Game
             </p>
           </div>
           <div>
@@ -163,6 +165,10 @@ const Projects = () => {
             </div>
             <p className="text-center text-white pt-4 font-sans">
               {" "}
+              <strong className="text-red-400 text-center">
+                Project in the freetime{" "}
+              </strong>
+              <br></br>
               Daily Checklist (React.js)
             </p>
           </div>
