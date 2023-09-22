@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "/le-thien-an-tran-my-portfolio/static/css/main.6fbadf08.css",
-    "main.js": "/le-thien-an-tran-my-portfolio/static/js/main.05862ce7.js",
-    "static/media/LeThienAnTranGeneralResume-v2.pdf": "/le-thien-an-tran-my-portfolio/static/media/LeThienAnTranGeneralResume-v2.84d30fee52b196cd1ddc.pdf",
+    "main.js": "/le-thien-an-tran-my-portfolio/static/js/main.2e6c5e68.js",
+    "static/media/LeThienAnTranGeneralResume-v3.pdf": "/le-thien-an-tran-my-portfolio/static/media/LeThienAnTranGeneralResume-v3.f2685bcea0a70799c850.pdf",
     "static/media/Montserrat-SemiBoldItalic.ttf": "/le-thien-an-tran-my-portfolio/static/media/Montserrat-SemiBoldItalic.a8c8285681c31cae8e5d.ttf",
     "static/media/Montserrat-LightItalic.ttf": "/le-thien-an-tran-my-portfolio/static/media/Montserrat-LightItalic.57ae4565eaf9e1fc53ba.ttf",
     "static/media/Montserrat-BoldItalic.ttf": "/le-thien-an-tran-my-portfolio/static/media/Montserrat-BoldItalic.360c8432a3f6bb697796.ttf",
@@ -42,10 +42,10 @@
     "static/media/DubHacksProject.PNG": "/le-thien-an-tran-my-portfolio/static/media/DubHacksProject.ce68fa892e7c8e5fd29f.PNG",
     "index.html": "/le-thien-an-tran-my-portfolio/index.html",
     "main.6fbadf08.css.map": "/le-thien-an-tran-my-portfolio/static/css/main.6fbadf08.css.map",
-    "main.05862ce7.js.map": "/le-thien-an-tran-my-portfolio/static/js/main.05862ce7.js.map"
+    "main.2e6c5e68.js.map": "/le-thien-an-tran-my-portfolio/static/js/main.2e6c5e68.js.map"
   },
   "entrypoints": [
     "static/css/main.6fbadf08.css",
-    "static/js/main.05862ce7.js"
+    "static/js/main.2e6c5e68.js"
   ]
 }
